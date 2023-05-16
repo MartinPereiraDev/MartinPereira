@@ -30,8 +30,8 @@ Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seg
 
 ## Certificados:
 
-![certificado analista ti 2](https://github.com/MPDevuy/MartinPereira/assets/61568369/c632c414-c717-496e-b2a5-acc9e2455b83)
+![Curso TI ](https://github.com/MPDevuy/MartinPereira/assets/61568369/3593d475-9c2c-48d0-9f68-f04aaeb67343)
 
-[![Analista TI](https://user-images.githubusercontent.com/61568369/238770114-062a299a-0118-474d-a908-f60961de8794.png)]()
+
 
 
