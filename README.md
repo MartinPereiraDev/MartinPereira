@@ -18,7 +18,7 @@ Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con D
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-[![DJango](https://img.shields.io/badge/DJango-Framework-yellowgreen)]()
+[![DJango](https://img.shields.io/badge/-DJango-yellowgreen)]()
 
 
 [![FAstAPI](https://img.shields.io/badge/-FastAPI-green)]()
