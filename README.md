@@ -15,13 +15,13 @@ Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con D
 
 ## Tecnologías:
 
-</br>
+
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-</br>
 
-</br>
+
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-</br>
+
 
 
