@@ -28,4 +28,10 @@ Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seg
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 
-![[Analista TI](https://user-images.githubusercontent.com/61568369/238770114-062a299a-0118-474d-a908-f60961de8794.png)]()
+## Certificados:
+
+![certificado analista ti 2](https://github.com/MPDevuy/MartinPereira/assets/61568369/c632c414-c717-496e-b2a5-acc9e2455b83)
+
+[![Analista TI](https://user-images.githubusercontent.com/61568369/238770114-062a299a-0118-474d-a908-f60961de8794.png)]()
+
+
