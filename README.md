@@ -12,6 +12,7 @@ Analista Ti en C.U.T.I (inefop) desarrolle Python, Android, Java, SQL entre otro
 
 Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con Daniel Vega Senior Magento 2
 
+Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seguir el camino del desarrollo y a partir de la experiencia laboral en desarrollo BackEnd, decidi dedicarme a este fantastico mundo de la programación. 
 
 ## Tecnologías:
 
