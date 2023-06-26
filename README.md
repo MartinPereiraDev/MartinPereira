@@ -1,16 +1,21 @@
 # MartinPereira
 ### Desarrollador Python 
 
-Hola mi nombre es Martin Pereira Analista TI hace 3 años
+Hola mi nombre es Martin Pereira Analista TI
+
+Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con CEO  Daniel Vega 
+
+Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otros conceptos de desarrollo 
 
 Bachillerato informatico en U.T.U. aprobado en 2014 en el cual desarrolle conceptos de programacion, redes, base de datos, S.O.
-lenguajes C, VB, 
+lenguajes C, .Net, 
 SQL creacion y manejo
+Creacion de scripts (bash,Linux)
 Aprobado con Honores
 
-Analista Ti en C.U.T.I (inefop) desarrolle Python, Android, Java, SQL entre otros conceptos de desarrollo 
 
-Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con Daniel Vega Senior Magento 2
+
+
 
 Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seguir el camino del desarrollo y a partir de la experiencia laboral en desarrollo BackEnd, decidi dedicarme a este fantastico mundo.
 
