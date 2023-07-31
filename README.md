@@ -1,7 +1,9 @@
 # MartinPereira
-### Desarrollador Python 
+### Desarrollador web
 
 Hola mi nombre es Martin Pereira Analista TI
+
+Desde  pequeño me apasiona la tecnologia, tenia conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empeze programar, diseñar BD y eso me mostro  un gran desafio y un lugar donde realmente queria estar....  
 
 Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con CEO  Daniel Vega 
 
