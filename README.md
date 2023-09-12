@@ -1,21 +1,20 @@
 # MartinPereira
 ### Desarrollador web
 
-Hola mi nombre es Martin Pereira Analista TI
+Hola soy  Martin Pereira Developer 
 
-Desde  pequeño me apasiona la tecnologia, tenia conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empeze programar, diseñar BD y eso me mostro  un gran desafio y un lugar donde realmente queria estar....  
+Desde  pequeño me apasiona la tecnologia, adquiri en trabajos conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empece a programar, diseñar, eso me mostro un gran desafio, una pasion  y un lugar donde realmente queria desarrollar mi futuro laboral.  
 
-Experiencia laboral 2 años en desarrollo BackEnd Python mediante proyecto con CEO  Daniel Vega 
+Tuve la experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL  
 
-Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otros conceptos de desarrollo 
+Me desarrolle en 
+Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otros conceptos de desarrollo
+Desarrolle web con python, django, lidere equipo proyecto final ya que contaba con los conocimientos para los requerimientos del software y conocimientos mas amplios de desarrollo.  
 
 Bachillerato informatico en U.T.U. aprobado en 2014 en el cual desarrolle conceptos de programacion, redes, base de datos, S.O.
 lenguajes C, .Net, 
 SQL creacion y manejo
-Creacion de scripts (bash,Linux)
-Aprobado con Honores
-
-
+Creacion de scripts (kernel,Linux)
 
 
 
