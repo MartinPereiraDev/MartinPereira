@@ -5,14 +5,17 @@ Hola soy  Martin Pereira Developer
 
 Desde  pequeño me apasiona la tecnologia, adquiri en trabajos conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empece a programar, diseñar, eso me mostro un gran desafio, una pasion  y un lugar donde realmente queria desarrollar mi futuro laboral.  
 
-Tuve la experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL  
+Tuve la experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL.
+Uso de control de versiones Git, coordinando equipo de trabajo con repositorio Github, realizando corrección de errores, colaborando en funcionalidades, documentando, código reutilizable y actualizable. utilizando buenas prácticas
+Estructura de datos y optimización, trabajo bajo presión.
+
 
 Me desarrolle en 
-Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otros conceptos de desarrollo
+Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otras tecnologias, estructura de datos, tecnologias agiles 
 Desarrolle web con python, django, lidere equipo proyecto final ya que contaba con los conocimientos para los requerimientos del software y conocimientos mas amplios de desarrollo.  
 
-Bachillerato informatico en U.T.U. aprobado en 2014 en el cual desarrolle conceptos de programacion, redes, base de datos, S.O.
-lenguajes C, .Net, 
+Bachillerato informatico en U.T.U.  en el cual desarrolle conceptos de programacion estructura de datos, metodologias,  redes, base de datos, manejo de S.O. (windows, linux).
+lenguajes C, .VB, Genexus 
 SQL creacion y manejo
 Creacion de scripts (kernel,Linux)
 
