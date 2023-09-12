@@ -5,7 +5,7 @@ Hola soy  Martin Pereira Developer
 
 Desde  pequeño me apasiona la tecnologia, adquiri en trabajos conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empece a programar, diseñar, eso me mostro un gran desafio, una pasion  y un lugar donde realmente queria desarrollar mi futuro laboral.  
 
-Tuve la experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL.
+Tengo  experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL.
 Uso de control de versiones Git, coordinando equipo de trabajo con repositorio Github, realizando corrección de errores, colaborando en funcionalidades, documentando, código reutilizable y actualizable. utilizando buenas prácticas
 Estructura de datos y optimización, trabajo bajo presión.
 
