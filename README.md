@@ -1,29 +1,38 @@
 # MartinPereira
-### Developer web
-
-Hola soy  Martin Pereira Developer 
-
-Desde  pequeño me apasiona la tecnologia, adquiri en trabajos conocimientos de PC y office lo que mi verdadera pasion nacio en el bachillerato donde empece a programar, diseñar, eso me mostro un gran desafio, una pasion  y un lugar donde realmente queria desarrollar mi futuro laboral.  
-
-Tengo  experiencia laboral en desarrollo web mediante las tecnologias Python con su framework Django, el uso de HTML,  CSS y SQL.
-Uso de control de versiones Git, coordinando equipo de trabajo con repositorio Github, realizando corrección de errores, colaborando en funcionalidades, documentando, código reutilizable y actualizable. utilizando buenas prácticas
-Estructura de datos y optimización, trabajo bajo presión.
+### Developer 
 
 
-Me desarrolle en 
-Analista Ti en C.U.T.I (inefop) 2020 desarrolle en Python, Android, Java, SQL entre otras tecnologias, estructura de datos, tecnologias agiles 
-Desarrolle web con python, django, lidere equipo proyecto final ya que contaba con los conocimientos para los requerimientos del software y conocimientos mas amplios de desarrollo.  
+Sociable, I like teamwork, good listening leads to learning and provides ideas that become value within teamwork.
 
-Bachillerato informatico en U.T.U.  en el cual desarrolle conceptos de programacion estructura de datos, metodologias,  redes, base de datos, manejo de S.O. (windows, linux).
-lenguajes C, .VB, Genexus 
-SQL creacion y manejo
-Creacion de scripts (kernel,Linux)
+Open to learning new technologies, agile methodologies, critical thinking, every day you learn something new, you experience something different,
 
+I like to create, collaborate on projects, teamwork brings value and continuous learning, solve problems with critical thinking (see the problem, what is needed, is viable, what consequences does the solution bring), I have two years of remote work experience in web development, error correction tasks, document project in English, SQL queries, create and modify HTML templates, CSS, basic configuration and adjustments of the Django framework, create, optimize functions with Python, use of git version control, Github repositories.
+Knowledge of data structure, agile methodologies (Scrum, others).
 
+Technical skills:
+• Python                    - Django             - SQL                   - Docker
+• HTML                      - Rest               - Git                  - Github
+• OOP                       - Scrum              - Agile methodologies   - Swagger
+• Linux - Windows           - Kernel – scripts                           - Genexus
+• Data structure
 
-Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seguir el camino del desarrollo y a partir de la experiencia laboral en desarrollo BackEnd, decidi dedicarme a este fantastico mundo.
+Soft skills.
+• Teamwork - Quick learning - Self-taught
+• Detail orientation - Problem solving - Critical thinking
+• Communication - Lead teams - NLP (Neurolinguistic programming)
 
-## Tecnologías:
+I am responsible for organizing my schedules
+
+Many years of work in logistics
+Lead work team where quality and delivery times were improved
+Talk to clients to find out their vision of the problem, how to solve it, what needs to be done, maintain dialogue to find out if the client is satisfied and if the work is efficient.
+Manage delivery of sensitive documentation.
+Organize delivery with critical thinking, (do it better, is it feasible, consequences) in areas according to your workload. teamwork coordinating deliveries, across deadlines and goals.
+
+I have a good relationship with clients and within the organization.
+Dedication and respect within the organization.
+Fidelity.
+## Skills:
 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -37,7 +46,7 @@ Siempre actualizado aprendiendo diferentes cursos y tecnologias mi sueño es seg
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 
-## Certificados:
+## certificates:
 
 ![Curso TI ](https://github.com/MPDevuy/MartinPereira/assets/61568369/3593d475-9c2c-48d0-9f68-f04aaeb67343)
 
