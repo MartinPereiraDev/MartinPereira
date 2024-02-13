@@ -2,36 +2,42 @@
 ### Developer 
 
 
-Sociable, I like teamwork, good listening leads to learning and provides ideas that become value within teamwork.
+Results-oriented IT analyst with 2 years of experience in backend development using Python, Django and SQL. REST API architecture integration, robust unit testing with PyTest to ensure code reliability and maintainability. Committed to maintaining data security and driving process improvements.
+Database Management (PostgreSQL, SQL, MySQL), Git, Github, Docker containers, knowledge of HTML, CSS, JavaScript.
+I like to share my knowledge by creating tutorials.
+Many years of experience dealing directly with clients solving problems.
+Lead work groups that achieved better quality of service delivery, managing to organize tasks and improve delivery times.
 
-Open to learning new technologies, agile methodologies, critical thinking, every day you learn something new, you experience something different,
+Technical Skills:
+• Languages: Python
+• Framework: Django
+• API: RESTful
+• Containers: Docker
+• Databases: PostgreSQL, MySQL, SQL
+• Version control: Git, GitHub
+• Web technologies: HTML, CSS, JavaScript
+• Operating systems: Linux, Windows
+• Microservices architecture
+• Documentation: Swagger, Postman
+• Scripting: Shell scripting
+• Genexus	
 
-I like to create, collaborate on projects, teamwork brings value and continuous learning, solve problems with critical thinking (see the problem, what is needed, is viable, what consequences does the solution bring), I have two years of remote work experience in web development, error correction tasks, document project in English, SQL queries, create and modify HTML templates, CSS, basic configuration and adjustments of the Django framework, create, optimize functions with Python, use of git version control, Github repositories.
-Knowledge of data structure, agile methodologies (Scrum, others).
+Soft skills:
+• Teamwork: Proven ability to collaborate effectively in cross-functional teams.
+• Rapid Learning: Demonstrated ability to quickly acquire and apply new technologies.
+• Self-taught: Innate drive to explore and master new concepts independently.
+• Problem Solving: Strong analytical skills to identify and solve complex problems.
+• Critical Thinking: Ability to objectively evaluate situations and make informed decisions.
+• Skill Sharing: Passionate about sharing knowledge and mentoring others.
+• NLP (Neurolinguistic Programming): Understanding human communication patterns to improve interpersonal interactions.
+• Time management and organization
 
-Technical skills:
-• Python                    - Django             - SQL                   - Docker
-• HTML                      - Rest               - Git                  - Github
-• OOP                       - Scrum              - Agile methodologies   - Swagger
-• Linux - Windows           - Kernel – scripts                           - Genexus
-• Data structure
+Spoken languages: 			
+•	Spanish: Native 		
+•	English 
 
-Soft skills.
-• Teamwork - Quick learning - Self-taught
-• Detail orientation - Problem solving - Critical thinking
-• Communication - Lead teams - NLP (Neurolinguistic programming)
 
-I am responsible for organizing my schedules
 
-Many years of work in logistics
-Lead work team where quality and delivery times were improved
-Talk to clients to find out their vision of the problem, how to solve it, what needs to be done, maintain dialogue to find out if the client is satisfied and if the work is efficient.
-Manage delivery of sensitive documentation.
-Organize delivery with critical thinking, (do it better, is it feasible, consequences) in areas according to your workload. teamwork coordinating deliveries, across deadlines and goals.
-
-I have a good relationship with clients and within the organization.
-Dedication and respect within the organization.
-Fidelity.
 ## Skills:
 
 
