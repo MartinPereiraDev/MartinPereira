@@ -1,55 +1,54 @@
 # Martin Pereira
-### Developer 
+### Developer backend
 
 
-Results-oriented IT analyst with 2 years of experience in backend development using Python, Django and SQL. REST API architecture integration, robust unit testing with PyTest to ensure code reliability and maintainability. Committed to maintaining data security and driving process improvements.
-Database Management (PostgreSQL, SQL, MySQL), Git, Github, Docker containers, knowledge of HTML, CSS, JavaScript.
-I like to share my knowledge by creating tutorials.
-Many years of experience dealing directly with clients solving problems.
-Lead work groups that achieved better quality of service delivery, managing to organize tasks and improve delivery times.
+Soy Martin Pereira developer,  con experiencia programando dentro del  backend con dinamismo y  versatilidad para desarrollo de software.
 
-Technical Skills:
-• Languages: Python
-• Framework: Django
-• API: RESTful
-• Containers: Docker
-• Databases: PostgreSQL, MySQL, SQL
-• Version control: Git, GitHub
-• Web technologies: HTML, CSS, JavaScript
-• Operating systems: Linux, Windows
-• Microservices architecture
-• Documentation: Swagger, Postman
-• Scripting: Shell scripting
-• Genexus	
+✅Trabajo en equipo : Colaborando con el desarrollo para mantener el ciclo de vida  del proyecto desde el concepto hasta la implementación manejando inconvenientes aportando ideas, soluciones y aprendiendo de sus habilidades, para lograr las metas.
 
-Soft skills:
-• Teamwork: Proven ability to collaborate effectively in cross-functional teams.
-• Rapid Learning: Demonstrated ability to quickly acquire and apply new technologies.
-• Self-taught: Innate drive to explore and master new concepts independently.
-• Problem Solving: Strong analytical skills to identify and solve complex problems.
-• Critical Thinking: Ability to objectively evaluate situations and make informed decisions.
-• Skill Sharing: Passionate about sharing knowledge and mentoring others.
-• NLP (Neurolinguistic Programming): Understanding human communication patterns to improve interpersonal interactions.
-• Time management and organization
+✅Orientado a resultados : con objeticos claros, realizando entregas en tiempo, 
+actualizado con las mejores prácticas de la industria y las tecnologías emergentes.
 
-Spoken languages: 			
-•	Spanish: Native 		
-•	English 
+✅Seguridad de los datos y la mejora continua de los procesos.
+
+✅Trato directo con clientes:  explicando conceptos técnicos en lenguaje sencillo, escuchar activamente sus requerimientos y preocupaciones, estableciendo plazos realistas, comunicando avances y complicaciones que pudieran surgir. 
+
+✅Resolviendo problemas: Abordando rápidamente y ofreciendo soluciones alternativas cuando sea necesario.	
+
+✅Comunicación: Ajustándome a diferentes estilos de comunicación
+Flexible:  cambios en los requisitos o tecnologías.
+
+✅Metodologías Ágiles:  entrega más rápida de valor, mejor calidad del producto, transparencia y visibilidad mejora continua, reducción de riesgos.
+
+✅Respeto: Comunico claramente mi disponibilidad y respeto los horarios establecidos para mantener un flujo de trabajo consistente.
+
+✅Organización: tablero virtual para organizar tareas pendientes, en progreso y completadas (Trello etc.)
+
+Experiencia:
+🛠️ Python 🛠️Django
+🛠️ Arquitecturas API REST 
+🛠️ Bases de datos con MySQL, PostgreSQL
+🛠️ Pruebas 
+🛠️ Control versión Git 🛠️ repositorios Github 
+🛠️ Herramientas Docker 🛠️ Swagger, Postman.
+
+Conocimientos:
+✔️ Python - Django - API RESTful
+✔️ HTML - CSS 
+✔️ C    - JAVA - JavaScript
+✔️ SQL - PostgreSQL - MySQL
+✔️ Arquitectura de Microservicios   - Low code
+✔️ Git - GitHub
+✔️ Docker - kubernetes
+✔️ Linux - Windows
+✔️ Swagger - Postman
+✔️ Scripting: Shell scripting
+✔️ Genexus       -     VisualBasic
+✔️ Blockchain 
+✔️ Testing
 
 
 
-## Skills:
-
-
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-[![DJango](https://img.shields.io/badge/Django-999991?style=for-the-fasApi&logo=django&logoColor=green&labelColor=101010)]()
-
-
-[![FAstAPI](https://img.shields.io/badge/FastAPI-999991?style=for-the-fasApi&logo=fastapi&logoColor=green&labelColor=101010)]()
-
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 
 ## certificates:
