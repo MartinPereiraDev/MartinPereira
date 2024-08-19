@@ -51,7 +51,7 @@ Conocimientos:
 
 
 
-## certificates:
+## certificados:
 
 ![Curso TI ](https://github.com/MPDevuy/MartinPereira/assets/61568369/3593d475-9c2c-48d0-9f68-f04aaeb67343)
 
