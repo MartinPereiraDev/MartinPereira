@@ -35,7 +35,7 @@ Experiencia:
 Conocimientos:
 ✔️ Python - Django - API RESTful
 ✔️ HTML - CSS 
-✔️ C    - JAVA - JavaScript
+✔️ C    - JAVA - JavaScript - React - Node
 ✔️ SQL - PostgreSQL - MySQL
 ✔️ Arquitectura de Microservicios   - Low code
 ✔️ Git - GitHub
