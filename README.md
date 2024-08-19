@@ -16,7 +16,7 @@ actualizado con las mejores prácticas de la industria y las tecnologías emerge
 ✅Resolviendo problemas: Abordando rápidamente y ofreciendo soluciones alternativas cuando sea necesario.	
 
 ✅Comunicación: Ajustándome a diferentes estilos de comunicación
-Flexible:  cambios en los requisitos o tecnologías.
+
 
 ✅Metodologías Ágiles:  entrega más rápida de valor, mejor calidad del producto, transparencia y visibilidad mejora continua, reducción de riesgos.
 
