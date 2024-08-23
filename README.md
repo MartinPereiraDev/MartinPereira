@@ -2,7 +2,7 @@
 ### Developer backend
 
 
-Soy Martin Pereira developer,  con experiencia programando dentro del  backend con dinamismo y  versatilidad para desarrollo de software.
+Soy Martin Pereira developer, con experiencia programando dentro del  backend con dinamismo y versatilidad para desarrollo de software.
 
 ✅Trabajo en equipo : Colaborando con el desarrollo para mantener el ciclo de vida  del proyecto desde el concepto hasta la implementación manejando inconvenientes aportando ideas, soluciones y aprendiendo de sus habilidades, para lograr las metas.
 
